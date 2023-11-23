@@ -5,4 +5,3 @@ function isIsogram(str){
 }
 
  console.log(isIsogram('aple'));
-
